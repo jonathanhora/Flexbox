@@ -56,6 +56,27 @@
     margin-left: 0;
 }
 
+.videoSobre .container{
+	display: flex;
+}
+
+.videoSobre-sobre{
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	/*distribui o espaço vazio*/
+	flex-grow: 1;
+}
+
+.videoSobre-sobre-list{
+	flex-grow: 1;
+}
+.videoSobre-video{
+	flex-grow: 1;
+	/*Quando diminuir a tela, vai diminuir o video*/
+	flex-shrink: 2;
+}
+
 /*mobile*/
 @media (max-width : 768px) {
 
@@ -77,6 +98,14 @@
     .conteudoPrincipal-cursos-link{
         width: 100%;
     }
+
+	.videoSobre .container{
+		flex-direction: column;
+	}
+
+	.videoSobre-video{
+		margin: 0 auto;
+	}
     
     .rodapePrincipal-navMap-list {
 		height: auto;
