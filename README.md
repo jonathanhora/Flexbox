@@ -9,3 +9,5 @@ O codigo fonte deste projeto, foi disponibilizado pela alura e durante as aulas 
 # Modelo de layout:
 * Flexbox
 
+# Acesso:
+https://jonathanhora.github.io/Flexbox/
