@@ -12,3 +12,6 @@ O codigo fonte deste projeto, foi disponibilizado pela alura e durante as aulas 
 Acesso:
 
 https://jonathanhora.github.io/Flexbox/
+
+
+![image](https://user-images.githubusercontent.com/65188908/192862316-c223b6d8-a142-46a2-bb5b-1e2c72033d45.png)
